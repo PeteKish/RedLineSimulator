@@ -42,7 +42,6 @@ function setup() {
   maxD = 400*sqrt(2)
   createCanvas(800, 800);
   png.resize(800, 800);
-  image(png, 0, 0);
   let x = 200;
   let y = 200;
 
